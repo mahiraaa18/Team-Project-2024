@@ -17,10 +17,10 @@ This project also aims to enhance our skills in:
 
 | Name            | GitHub Username      | Role/Task                                 |
 |-----------------|----------------------|-------------------------------------------|
-| **Dhila mahira**  | mahiraaa        | Project Lead, Front-end Development       |
-| **gracia**   | graciar    | Project Lead, Back-end Developer, API Integration       |
-| **ashila rifa**   | ashilaaa     | UI/UX Designer, Graphics & Layout         |
-| **romyanti**   | Romyanti     | Database Management, Testing & Debugging  |
+| **Dhila mahira**  |     mahiraaa     | Project Lead, Front-end Development       |
+| **gracia**   |     graciar    | Project Lead 2, Back-end Developer, API Integration  |
+| **ashila rifa**   |       ashilaaa     | UI/UX Designer, Graphics & Layout         |
+| **romyanti**   |     Romyanti     |  Testing & Debugging  |
 
 ---
 
