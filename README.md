@@ -1,7 +1,7 @@
 # 🎯 Team-Project-2024: Habit Tracker App 🚀
 
 ## Project Overview
-Welcome to **Team-Project-2024**! This repository contains the development of our collaborative Habit Tracker App, a simple yet powerful tool designed to help users build and maintain healthy habits. Our app allows users to track daily habits, visualize their progress, and stay motivated in achieving their goals.
+Welcome to **Our Project**! This repository contains our development web, a web with a simple design designed to help users build a portfolio that can visualize their progress, and stay motivated in achieving their goals.
 
 ## 🌟 Project Goal
 
@@ -9,6 +9,7 @@ This project also aims to enhance our skills in:
 - **Version control** using Git and GitHub.
 - **Collaborative software development**.
 - **Front-end and back-end integration**.
+- **our main goal is to do the assignment week 7**.
 
 ---
 
@@ -76,7 +77,7 @@ This project also aims to enhance our skills in:
 
 ## 📅 Timeline
 
-- **wednesday**: Project setup, design wireframes, initial repository creation.
+- **wednesday**: make a README.md, Project setup, design wireframes, initial repository creation.
 - **friday**: Development of front-end and back-end components.
 - **monday**: Integration, testing, and final deployment.
 
